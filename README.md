@@ -2,22 +2,22 @@ README - Secure File Transfer Protocol using Hybrid Cryptography
 
 Përmbajtja:
 
-Përshkrimi i Aplikacionit
+1.Përshkrimi i Aplikacionit
 
 
-Konfigurimi dhe Instalimi
+2.Konfigurimi dhe Instalimi
 
 
-Përdorimi
+3.Përdorimi
 
 
-Zgjedhjet Kriptografike
+4.Zgjedhjet Kriptografike
 
 
-Etapat e Protokollit
+5.Etapat e Protokollit
 
 
-Referencat
+6.Referencat
 
 
 1. Përshkrimi i Aplikacionit
