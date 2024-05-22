@@ -1,4 +1,5 @@
-README - Secure File Transfer System
+README - Secure File Transfer Protocol using Hybrid Cryptography
+
 Përmbajtja:
 Përshkrimi i Aplikacionit
 Konfigurimi dhe Instalimi
