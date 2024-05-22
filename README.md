@@ -1,4 +1,5 @@
 README - Secure File Transfer System
+
 Përmbajtja:
 Përshkrimi i Aplikacionit
 Konfigurimi dhe Instalimi
@@ -6,6 +7,7 @@ Përdorimi
 Zgjedhjet Kriptografike
 Etapat e Protokollit
 Referencat
+
 1. Përshkrimi i Aplikacionit
 Ky është një sistemi i sigurt për transferimin e skedarëve mes një klienti dhe një serveri në një rrjet lokal. Klienti mund të zgjedhë një skedar për transferim, dhe pastaj skedari i enkriptuar dhe i nënshkruar dërgohet në server.
 
